@@ -2,7 +2,7 @@
 
 A simple yet powerful Q&A Chatbot built using Streamlit and Groq's AI models. This chatbot allows users to ask questions and receive AI-generated responses using various Groq models.
 
-##🚀 Features
+## 🚀 Features
 
 Supports multiple AI models from Groq.
 
@@ -12,7 +12,7 @@ User-friendly Streamlit interface.
 
 Dynamic response generation based on user input.
 
-##📌 Tech Stack
+## 📌 Tech Stack
 
 Python
 
@@ -24,7 +24,7 @@ OpenAI (for LLM chaining)
 
 Groq API (for AI models)
 
-##⚙️ Usage
+## ⚙️ Usage
 
 Open the Streamlit UI in your browser.
 
@@ -34,7 +34,7 @@ Adjust the temperature and max tokens settings.
 
 Enter your question and get AI-generated responses instantly.
 
-##💡 Future Enhancements
+## 💡 Future Enhancements
 
 Add speech-to-text input for a voice-based chatbot.
 
