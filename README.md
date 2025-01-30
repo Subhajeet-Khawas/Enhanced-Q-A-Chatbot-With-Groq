@@ -2,6 +2,10 @@
 
 A simple yet powerful Q&A Chatbot built using Streamlit and Groq's AI models. This chatbot allows users to ask questions and receive AI-generated responses using various Groq models.
 
+## webApp URL:
+https://enhanced-q-a-chatbot-with-groq.streamlit.app
+
+
 ## 🚀 Features
 
 Supports multiple AI models from Groq.
